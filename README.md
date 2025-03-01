@@ -44,7 +44,7 @@ Update the OpenFGA settings in the appsettings.json file:
   "OpenFga": {
     "StoreId": "your-store-id",
     "ModelId": "your-model-id",
-    "ApiUrl": ""http://localhost:8080"
+    "ApiUrl": "http://localhost:8080"
   },
   "ConnectionStrings": {
     "DefaultConnection": "Host=localhost;Port=5432;Database=docs;Username=your_user;Password=your_password"
